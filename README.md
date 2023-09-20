@@ -1,4 +1,4 @@
-# Final project: FishGo
+# Game: FishGo
 
 ## Description
 Fish MinMin lives in the sea. She can move from left to right.
